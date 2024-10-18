@@ -1,0 +1,373 @@
+body{
+    font-family: 'Syne', sans-serif;
+}
+a{
+    font-family: 'Syne', sans-serif;
+}
+td.details-control {
+    background: url('../../asset/image/plus-icon.png') no-repeat center center;
+    cursor: pointer;
+    background-size: 20px 20px;
+}
+
+tr.shown td.details-control {
+    background: url('../../asset/image/minus.png') no-repeat center center;
+    cursor: pointer;
+    background-size: 20px 20px;
+}
+
+main.page-content {
+    padding-bottom: 40px;
+}
+
+
+.myaccount-tab-trigger li.nav-item {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.myaccount-tab-trigger li.nav-item .nav-link {
+    background: #f4f2f29e;
+    color: #191111b3;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.myaccount-tab-trigger li.nav-item .nav-link.active {
+    background: #ed3237;
+    color: white;
+}
+
+.tab-content .tab-pane {
+    display: none;
+}
+
+.tab-content .tab-pane.active {
+    display: block;
+}
+
+main.page-content .nice-select {
+    line-height: 22px;
+    height: 45px !important;
+}
+
+.single-input {
+    margin-bottom: 15px;
+}
+
+.err_msg {
+    color: #cd5c5cd9;
+    font-size: 13px;
+    padding-top: 2px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.tab-pane h4.small-title {
+    margin-bottom: 20px;
+}
+
+.myaccount-tab-menu .nav-item:not(:last-child),
+.myaccount-tab-menu .nav-item:not(:last-child) {
+    margin-right: 0;
+}
+
+.tab-content  .tab-pane{
+    padding: 0;
+}
+.myaccount-orders.wishlist h1.text-center {
+    font-size: 20px;
+    padding-top: 50px;
+    color: indianred;
+}
+
+.addaddress ul.product-now {
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.addaddress ul.product-now li {
+    display: inline-block;
+    width: 10%;
+}
+
+.addaddress label {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.addaddress .form-fild {
+    margin-bottom: 15px;
+}
+
+a#addNewAddressButton {
+    color: white;
+    padding: 6px 8px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+input::placeholder {
+    font-size: 14px;
+}
+
+input {
+    font-size: 14px !important;
+}
+
+.otp-form p {
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.user-area.otpVerify {
+    border: 1px solid #eee;
+    padding: 15px 0;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+    /* Firefox */
+}
+
+.otp-form .form-fild p {
+    font-size: 15px;
+    margin-bottom: 7px;
+}
+
+button#otpsubmit {
+    margin: 20px auto 0;
+}
+
+.form-fild .codeBox {
+    display: inline-flex;
+    width: 60px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+.otp-form .form-fild {
+    text-align: center;
+}
+
+.timerdiv {
+    text-align: center;
+    margin-top: 10px;
+    color: #503c3c;
+    font-weight: 600;
+}
+
+ul.product-now {
+    display: flex;
+    align-items: center;
+}
+
+.addaddress ul.product-now li {
+    display: flex !important;
+    align-items: center;
+    gap: 6px;
+}
+
+.addaddress ul.product-now li input[type="radio"]{
+    margin: 0;
+}
+
+.add-type {
+    display: flex;
+    gap: 10px;
+    background-color: #f7f7f7;
+    border-top: 3px solid #ed3237;
+    padding: 7px 11px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+
+.add-type h4 {
+    font-size: 17px;
+}
+
+span.pull-right.mytrash.clickable.close-icon {
+    background-color: antiquewhite;
+    padding: 3px 8px;
+    border-radius: 15px;
+    line-height: 1.5;
+}
+
+.add-type h3 {
+    background-color: #ed3237;
+    font-size: 11px;
+    padding: 0px 11px !important;
+    color: white;
+    line-height: 2.5;
+    border-radius: 15px;
+}
+
+.myaccount-tab-menu .nav-link {
+    text-align: left;
+    padding: 8px 20px;
+    font-weight: normal;
+    color: black;
+    font-size: 15px;
+    font-family: 'Syne', sans-serif;
+}
+.myaccount-tab-menu .nav-link.active {
+    background-color: #ed3237;
+    color: #fff !important;
+    padding: 10px;
+    border-radius: 0;
+}
+ul#account-page-tab {
+    border: 1px solid #e7e7e7;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+@media(max-width:768px) {
+    .myaccount-tab-menu .nav-link {
+    font-size: 13px;
+}
+    ul#account-page-tab {
+    border: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+ .card_pro {
+    width: 100% !important;
+    margin-bottom: 11px;
+}
+ul#account-page-tab {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 14px;
+}
+    .myaccount-dashboard img.img-responsive {
+        width: 25% !important;
+    }
+ul#account-page-tab li {
+    border-bottom: 1px solid #e8e8e8;
+}
+.nav {
+    gap: 0px;
+}
+    .myaccount-dashboard img.img-responsive {
+        width: 70px !important;
+    }
+
+    .myaccount-dashboard h4.p-0 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+
+    .myaccount-dashboard .row .col-lg-4.col-md-4 {
+        display: inline-block;
+        width: 165px;
+        margin-bottom: 15px;
+    }
+
+    .myaccount-dashboard .row .col-lg-4.col-md-4:nth-child(3) {
+        width: 100%;
+    }
+
+    .myaccount-dashboard .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .myaccount-tab-trigger li.nav-item .nav-link {
+        background: #f4f2f29e;
+        color: #191111b3;
+        font-weight: 600;
+        font-size: 14px;
+        padding: 10px 15px;
+        border-radius: 5px;
+    }
+
+    .nice-select .option {
+        cursor: pointer;
+        font-weight: 400;
+        line-height: 40px;
+        font-size: 12px;
+        list-style: none;
+        min-height: 40px;
+        outline: 0;
+        padding-left: 18px;
+        padding-right: 29px;
+        text-align: left;
+        -webkit-transition: all .2s;
+        transition: all .2s;
+    }
+
+    .myaccount-orders button.btn.common-btn {
+        padding: 5px 12px;
+        font-size: 13px;
+    }
+
+    .addaddress ul.product-now li {
+        display: inline-block;
+        width: 30%;
+    }
+
+    #changePass button.btn.common-btn.form-button {
+        padding: 7px 16px;
+        font-size: 14px;
+    }
+}
+
+/* cart css */
+.right-bar{
+    padding: 2.4rem 3rem 0 3rem;
+    border: 1px solid #e1e1e1;
+    border-radius: 2px;
+}
+.cart.main {
+    padding: 4.5rem 0;
+}
+.prc-btn a{
+    text-align: center;
+    width: 100%;
+}
+.myaccount-dashboard .card.text-center {
+    border-radius: 4px;
+    transition: 0.3s ease-in-out;
+    box-shadow: 1px 5px 13px 0 rgba(0,0,0,0.15);
+}
+.myaccount-dashboard .card.text-center:hover {
+    background-color: #e9dddd36;
+}
+.btn {
+    padding: 6px 29px;
+    border-radius: 10px;
+}
+.card_pro {
+    width: 270px;
+    border-radius: 1rem;
+    border: 0.5vmin solid #ed3237;
+    box-shadow: 0.4rem 0.4rem #ed3237;
+    overflow: hidden;
+}
+@media (max-width: 768px){
+    .cart-actions{
+        justify-content: center;
+    }
+    .cart-actions  a , .cart-actions  button{
+       width: 100%;
+    }
+}

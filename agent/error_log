@@ -1,0 +1,667 @@
+[07-Sep-2024 12:14:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 17:44:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[07-Sep-2024 17:44:34 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[07-Sep-2024 12:14:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 17:44:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 13
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 603
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 645
+[07-Sep-2024 17:44:37 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[07-Sep-2024 12:14:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 17:44:46 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 12:30:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 18:00:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[07-Sep-2024 18:00:12 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[07-Sep-2024 12:30:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 18:00:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 12:30:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:22 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agent_change_password.php on line 208
+[07-Sep-2024 18:00:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agent_change_password.php:208
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agent_change_password.php on line 208
+[07-Sep-2024 12:30:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:38 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:39 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:40 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:41 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 18:00:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agcorrect-password.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agcorrect-password.php on line 11
+[07-Sep-2024 12:30:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/agent_change_password.php on line 208
+[07-Sep-2024 18:00:51 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/msgallshop/public_html/agent/agent_change_password.php:208
+Stack trace:
+#0 {main}
+  thrown in /home/msgallshop/public_html/agent/agent_change_password.php on line 208
+[07-Sep-2024 18:01:59 Asia/Kolkata] PHP Notice:  Undefined index: ismobile in /home/msgallshop/public_html/agent/logout.php on line 22
+[07-Sep-2024 18:01:59 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/msgallshop/public_html/web-structure/web-structure-home/User.php on line 392
+[09-Sep-2024 12:37:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[09-Sep-2024 18:07:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 13
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 603
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 645
+[09-Sep-2024 18:07:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[09-Sep-2024 12:38:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[09-Sep-2024 18:08:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 13
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 603
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 645
+[09-Sep-2024 18:08:15 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[09-Sep-2024 12:38:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[09-Sep-2024 18:08:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 13
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 603
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 645
+[09-Sep-2024 18:08:29 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[09-Sep-2024 12:38:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[09-Sep-2024 18:08:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[09-Sep-2024 18:08:42 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[09-Sep-2024 18:08:46 Asia/Kolkata] PHP Notice:  Undefined index: ismobile in /home/msgallshop/public_html/agent/logout.php on line 22
+[09-Sep-2024 18:08:46 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/msgallshop/public_html/web-structure/web-structure-home/User.php on line 392
+[19-Sep-2024 07:16:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[19-Sep-2024 12:46:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 13
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 603
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Notice:  Undefined index: agent_loginid in /home/msgallshop/public_html/agent/index.php on line 645
+[19-Sep-2024 12:46:41 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[19-Sep-2024 07:16:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[19-Sep-2024 12:46:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[19-Sep-2024 12:46:44 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646
+[19-Sep-2024 07:16:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'micodetest_msg_updated'@'localhost' (using password: YES) in /home/msgallshop/public_html/agent/config/connection.php on line 4
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Notice:  Trying to get property 'connect_errno' of non-object in /home/msgallshop/public_html/agent/config/connection.php on line 11
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 8
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 9
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 19
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 20
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 50
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 51
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/includes/header.php on line 109
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/includes/header.php on line 110
+[19-Sep-2024 12:46:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/includes/header.php on line 114
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 14
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 16
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 136
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 137
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 139
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 198
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 199
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 201
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 277
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 278
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 280
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 346
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 347
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 349
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 413
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 414
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 416
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 481
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 482
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 484
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 547
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/msgallshop/public_html/agent/index.php on line 548
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/msgallshop/public_html/agent/index.php on line 550
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 604
+[19-Sep-2024 12:46:50 Asia/kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/msgallshop/public_html/agent/index.php on line 646

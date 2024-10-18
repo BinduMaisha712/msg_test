@@ -1,0 +1,121 @@
+.form-inner.account1.log-in-box {
+  background-color: #f8f8f8;
+  padding: 10px 20px;
+  border-radius: calc(8px + (12 - 8) * ((100vw - 320px) / (1920 - 320)));
+  width: 45%;
+  margin: auto;
+  position: relative;
+}
+
+.form-inner.account1.log-in-box:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 27px;
+  border-radius: 10px;
+  top: -12px;
+  background-color: rgb(231 231 231);
+  left: 0;
+  -webkit-transform: scale(0.95);
+  transform: scale(0.95);
+  z-index: -1;
+}
+
+.wrapper-2.hny:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 27px;
+  border-radius: 10px;
+  top: -12px;
+  background-color: rgb(231 231 231);
+  left: 0;
+  -webkit-transform: scale(0.95);
+  transform: scale(0.95);
+  z-index: -1;
+}
+
+label {
+  font-family: 'Syne';
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.toggle-password {
+  position: absolute;
+  top: 38px;
+  right: 20px;
+}
+
+section.my-account-area.account1 {
+  padding: 30px 0;
+}
+
+.toggle-passwordtwo {
+  position: absolute;
+  top: 44px;
+  right: 15px;
+}
+
+.lost-password a {
+  color: #999999;
+  font-size: 13px;
+}
+
+.form-fild {
+  position: relative;
+}
+
+.wrapper-2.myavilogin.log-in-section {
+  width: 95%;
+  margin: auto;
+}
+
+input[type=number] {
+  height: 45px;
+  width: 45px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.form-fild>input {
+  border: 1px solid #e5e5e5;
+  height: 40px;
+  font-size: 15px;
+  color: gray;
+  font-family: 'Syne';
+  border-radius: 5px;
+}
+
+.hny_log_t h2 {
+  font-size: 22px;
+  letter-spacing: 0px;
+  font-weight: 800;
+}
+
+span#timer {
+  background-color: #c50f13;
+  color: white;
+  padding: 1px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.wrapper-2.hny {
+  width: 43%;
+  text-align: center;
+  background-color: #f8f8f8;
+  margin: auto;
+  border-radius: 10px;
+  padding: 23px 0;
+  margin-bottom: 13px;
+  position: relative;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}

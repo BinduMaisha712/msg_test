@@ -1,0 +1,237 @@
+.loading.show {
+    padding: 15px;
+    border: 6px solid #ccc;
+    border-right-color: #888;
+    border-radius: 22px;
+    -webkit-animation: rotate 1s infinite linear;
+    /* left, top and position just for the demo! */
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 99;
+}
+
+@-webkit-keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.dropify-wrapper .dropify-message span.file-icon:before {
+    content: none;
+}
+
+.dropify-wrapper .dropify-message span.file-icon {
+    font-size: .875rem;
+    color: #7987a1;
+}
+
+.dropify-wrapper {
+    display: block;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    height: 125px;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 22px;
+    color: #777;
+    background-color: #FFF;
+    background-image: none;
+    text-align: center;
+    border: 2px solid #E5E5E5;
+    -webkit-transition: border-color .15s linear;
+    transition: border-color .15s linear;
+    background-size: 30px 30px;
+    background-image: -webkit-linear-gradient(135deg,#F6F6F6 25%,transparent 25%,transparent 50%,#F6F6F6 50%,#F6F6F6 75%,transparent 75%,transparent);
+    background-image: linear-gradient(-45deg,#F6F6F6 25%,transparent 25%,transparent 50%,#F6F6F6 50%,#F6F6F6 75%,transparent 75%,transparent);
+    -webkit-animation: stripes 2s linear infinite;
+    animation: stripes 2s linear infinite;
+}
+
+.select2-container .select2-selection--single,
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+}
+
+.select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+}
+
+.card .card-title {
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 500;
+    background: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.card-body form {
+    padding: 0 25px 25px;
+}
+
+.select2-container .select2-selection--single {
+  
+    height: 45px !important;
+   
+}
+
+.select2-container .select2-selection--multiple {
+    height: 45px !important;
+    line-height: 45px;
+}
+.select2-container--default .select2-selection--multiple {
+    
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+}
+ 
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #e4e4e4;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    cursor: default;
+    float: left;
+    margin-right: 5px;
+    margin-top: 4px;
+    color: #585858;
+    padding: 0 5px;
+    height: 35px;
+    line-height: 35px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 30px;
+}
+
+.dayInput{
+    position: relative;
+}
+.dayInput input{
+    padding-right: 90px;
+}
+.dayInput span{
+    position: absolute;
+    top: 0;
+    height: 45px;
+    line-height: 45px;
+    border: 1px solid #e9ecef;
+    border-left: 1px solid #f6ebeb;
+    width: 85px;
+    text-align: center;
+    font-size: 12px;
+    right: 10px;
+    background-color: #f6f6f6;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+}
+
+
+.PricingInp{
+    position: relative;
+}
+.PricingInp input{
+    padding-right: 130px;
+}
+.PricingInp span{
+    position: absolute;
+    top: 0;
+    height: 45px;
+    line-height: 45px;
+    border: 1px solid #e9ecef;
+    border-left: 1px solid #f6ebeb;
+    width: 125px;
+    text-align: center;
+    font-size: 10px;
+    right: 10px;
+    background-color: #f6f6f6;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+}
+
+.main-wrapper .page-wrapper .page-content {
+    flex-grow: 1;
+    padding: 25px;
+    margin-top: 60px;
+    background: #fff;
+}
+
+.form-small {
+    color: #666;
+    font-size: 10px;
+}
+
+.select2-container .select2-selection--single,
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+}
+
+.select2-container--default .select2-selection--single {
+    background-color: #fff;
+    border: 1px solid #e9ecef;
+    border-radius: 4px;
+}
+
+.form-control,
+.select2-container--default .select2-search--dropdown .select2-search__field,
+.typeahead.tt-hint,
+.typeahead.tt-input {
+    display: block;
+    width: 100%;
+    height: 45px;
+    padding: 0.469rem 0.8rem;
+    font-size: .875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #000;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #e9ecef;
+    appearance: none;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.pass2,
+.pass2 {
+    position: relative;
+}
+
+.toggle-password,
+.toggle-password1 {
+    position: absolute;
+    right: 15px;
+    top: 45px;
+    font-size: 14px;
+    color: #757575;
+    cursor: pointer;
+}
+
+div#ErrMsg {
+    font-size: 10px;
+    font-weight: 500;
+    color: red;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+div#DataTables_Table_0_filter {
+    float: right;
+    margin-bottom: 10px;
+}
+div#DataTables_Table_0_length{
+    display: none;
+}

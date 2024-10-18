@@ -1,0 +1,387 @@
+#track ul {
+    border-left: solid 5px #b4b4b4;
+    padding: 0 60px;
+    list-style: none;
+    margin-left: 5px;
+    margin-bottom: 0;
+}
+
+#track li {
+    position: relative;
+}
+
+#track li p {
+    margin-bottom: auto !important;
+}
+
+#track li:before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    border: solid 6px #f16422;
+    background: white;
+    /* top: 10px; */
+    left: -68px;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#track li+li {
+    margin-top: 25px;
+}
+
+#track h4 {
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 10px;
+    margin-top: 0;
+    color: #7b2200db;
+}
+
+#stop li:before {
+    content: '';
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    border: solid 6px #ef6603;
+    background: white;
+    /* top: 2px; */
+    left: 0;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#stop p {
+    margin-top: 0px;
+    margin-left: 60px;
+}
+
+#stop h4 {
+    margin-left: 60px;
+}
+
+
+/* Progress Bar */
+
+.progress {
+    position: relative;
+    height: 8px;
+    display: block;
+    width: 100%;
+    background-color: #b4b4b4;
+    border-radius: 2px;
+    background-clip: padding-box;
+    margin: 0.5rem 0 1rem 0;
+    overflow: hidden;
+}
+
+.progress .determinate {
+    position: absolute;
+    background-color: inherit;
+    top: 0;
+    bottom: 0;
+    background-color: #18d8a59e;
+    transition: width .3s linear;
+}
+
+h2.card-title.text-left {
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+h4.mt-4.mb-4 {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 28px;
+}
+
+h4.mt-4.mb-4 strong {
+    color: #636363;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+div#track h3 {
+    color: #767676;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+img.trckimgwd {
+    width: 100%;
+        border-radius: 13px;
+}
+
+.trackimgdiv {
+    text-align: -webkit-center;
+}
+
+.mt-3.trackptext {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.trackptext h4 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.alldiv {
+    position: relative;
+    bottom: 0;
+}
+
+#track li p strong {
+    font-weight: 600 !important;
+    font-size: 12px;
+}
+
+.font-weight-bold {
+    font-weight: 500;
+}
+
+.coupon-accordion h3 {
+    margin-bottom: 0;
+}
+
+form#cancelOrder button {
+    width: 14%;
+    padding: 7px;
+    border: 1px solid #cd5c5c5c;
+    color: indianred;
+    font-size: 16px;
+    margin-top: 13px;
+}
+
+form#cancelOrder button:hover {
+    width: 14%;
+    padding: 7px;
+    border: 1px solid #cd5c5c5c;
+    color: white;
+    background: indianred;
+    font-size: 16px;
+}
+
+.ordid {
+    color: #1b463be0;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.trackhead h1 {
+    position: relative;
+    top: 30px;
+    font-size: 25px;
+    margin-top: 0;
+}
+
+.mydivprt {
+    display: inline-flex;
+    align-items: center;
+}
+
+.mydivprt .trackimgdiv {
+    width: 25%;
+}
+
+.mydivprt .trackptext {
+    padding: 0 15px;
+}
+
+.mytrackdivsec {
+    background: #e5e5e512;
+    border-radius: 15px;
+    margin: 15px 0;
+    border: 1px solid #f7f7f76b;
+}
+
+.page-title-area {
+    height: 92px;
+    background-color: #fff;
+    border-top: 1px solid #f5f5f5;
+    position: relative;
+    margin-top: 13px;
+    padding-top: 20px;
+}
+
+.page-title-area .title-content h2 {
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+.cancelorder {
+    padding: 0 20px 20px;
+}
+
+.cancelorder .coupon-accordion h3 {
+    margin-bottom: 0;
+    font-size: 17px;
+    color: indianred;
+    font-weight: 500;
+}
+
+.cancelorder .form-group {
+    padding-top: 10px;
+}
+
+.trackptext h4 a {
+    color: #f16422d1;
+}
+
+span.dteordr {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.newrighttrackdiv h4.card-title {
+    font-size: 17px;
+    color: #6b6b6b;
+    font-weight: 500;
+}
+
+.newrighttrackdiv h3 {
+    font-size: 16px;
+    color: #f26520;
+}
+
+.newrighttrackdiv {
+    text-align: right;
+}
+
+a.btn.myinvoice {
+    border: 1px solid #52ca91;
+    color: #52ca91;
+}
+
+a.btn.myinvoice:hover {
+    border: 1px solid #52ca91;
+    background-color: #52ca91;
+    color: white;
+}
+
+::marker {
+    content: " ";
+}
+section {
+    padding-top: 0px;
+}
+span#showcoupon1 {
+    cursor: pointer;
+}
+span#showcoupon1:hover {
+    color: #ed3237;
+}
+
+@media(max-width:768px) {
+    .breadcrumb_content ul {
+        margin: 0;
+    }
+    .alldiv {
+        position: relative;
+        bottom: 0;
+    }
+    h4.mt-4.mb-4 {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .ordid {
+        color: #0063d1;
+        font-size: 15px;
+        font-weight: 500;
+    }
+    h2.card-title.text-left {
+        font-size: 13px;
+        font-weight: 400;
+        margin-bottom: 0;
+    }
+    form#cancelOrder button {
+        width: 50% !important;
+        padding: 7px;
+        border: 1px solid #cd5c5c5c;
+        color: white;
+        background: indianred;
+        font-size: 16px;
+    }
+    .mydivprt {
+        display: inline-flex;
+        flex-direction: column;
+        margin-top: 20px;
+        align-items: flex-start;
+    }
+    img.trckimgwd {
+        width: 100px;
+    }
+    .mydivprt .trackptext {
+        padding: 0 15px 0 0;
+    }
+    .trackptext h4 {
+        font-size: 13px;
+        font-weight: 600;
+        padding-top: 11px;
+        line-height: 20px;
+    }
+    h4.mt-3.mb-4.bold {
+        margin-top: 0 !important;
+        padding-top: 0;
+        margin-bottom: 0 !important;
+    }
+    .cancelorder .coupon-accordion h3 {
+        margin-bottom: 0;
+        font-size: 12px;
+        color: indianred;
+        font-weight: 600;
+    }
+    section.mt-3.mb-5 {
+        margin-bottom: 25px !important;
+    }
+    .cancelorder .coupon-accordion h3 {
+        margin-bottom: 0;
+        font-size: 14px;
+        color: indianred;
+        font-weight: 600;
+    }
+    .trackptext p {
+        margin-bottom: 3px;
+    }
+    .cancelorder {
+        padding: 0 20px 70px;
+    }
+    .newrighttrackdiv h4.card-title {
+        font-size: 13px;
+        color: #6b6b6b;
+        font-weight: 500;
+    }
+    .newrighttrackdiv h3 {
+        font-size: 13px;
+        color: #f26520;
+    }
+    h4.mt-4.mb-4 {
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+        font-size: 13px;
+        line-height: 22px;
+    }
+    h4.mt-4.mb-4 strong {
+        color: #636363;
+        font-weight: 500;
+        font-size: 13px;
+    }
+    div#track h3 {
+        color: #767676;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    a.btn.myinvoice {
+        border: 1px solid #52ca91;
+        color: #52ca91;
+        font-size: 11px;
+        padding: 5px 10px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+}
